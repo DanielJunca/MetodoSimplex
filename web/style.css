@@ -1,0 +1,36 @@
+
+
+.jumbotron{
+    background:#428BCA; 
+    color:#FFF;
+    padding:1px; 
+    margin-bottom:10px;
+}
+.borde{
+   border-right:1px solid #999; 
+}
+
+
+
+
+footer{
+   background:#428BCA; 
+   color:#FFF;
+   margin-top:8px;
+}
+
+.form-horizontal{
+    padding:3%; 
+}
+
+.aux{
+    padding-top: 6%;
+}
+
+
+h4{
+   text-align:center; 
+}
+
+
+

@@ -1,0 +1,30 @@
+#nR11,#nR12,#nR13,#nR14,#nR15,#nR16,#nR17,
+#nR21,#nR22,#nR23,#nR24,#nR25,#nR26,#nR27,
+#nR31,#nR32,#nR33,#nR34,#nR35,#nR36,#nR37,
+#nR41,#nR42,#nR43,#nR44,#nR45,#nR46,#nR47,
+#nR51,#nR52,#nR53,#nR54,#nR55,#nR56,#nR57,
+#nR61,#nR62,#nR63,#nR64,#nR65,#nR66,#nR67{
+    width:70px ; 
+}
+
+
+
+html
+{
+    position: relative; 
+    min-height: 100%;
+}
+body
+{
+    margin: 0 0 65px;
+}
+
+footer
+{
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    height: 65px;
+}
+
+
